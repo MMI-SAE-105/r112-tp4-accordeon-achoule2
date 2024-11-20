@@ -29,4 +29,9 @@ details[open] {
     gap: 20px;
   }
 
+summary {
+    list-style: none;
+    cursor: pointer;
+  }
+
   
