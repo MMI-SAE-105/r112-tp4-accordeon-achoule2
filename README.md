@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : CHOULET
+- prénom : Adrien
+- URL Netlify : https://clever-dragon-1c21ed.netlify.app
 
 # Travail
 
